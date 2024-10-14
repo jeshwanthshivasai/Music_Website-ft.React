@@ -62,7 +62,7 @@ function App() {
           </div>
         </div>
         <div className="card-body text-center" style={{ backgroundColor: 'black' }}>
-          <p className="card-title mb-0 text-white" style={{ textAlign: 'left', paddingLeft: '10px', fontSize: '0.95rem', fontWeight: '600' }}>{album.title}</p>
+          <p className="card-title mb-0 text-white" style={{ textAlign: 'left', fontSize: '0.90rem', fontWeight: '500' }}>{album.title}</p>
         </div>
       </div>
     ));
